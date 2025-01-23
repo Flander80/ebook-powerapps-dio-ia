@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/_bea13000-0c3a-4dcf-9e2b-675c032afb9d.jpg"
     width="400"  
 />
 </p>
